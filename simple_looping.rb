@@ -38,7 +38,7 @@ def until_iterator(number_of_times)
   # hint: use a counter to tell the until loop when to stop!
   
   counter = 0 
-  unitl counter == number_of_times
+  until counter == number_of_times
     puts  "Welcome to Flatiron School's Web Development Course!"
     counter +=1
   end 
